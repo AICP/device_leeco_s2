@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "hemantbeast/android_kernel_leeco_msm8976",
+    "target_path": "kernel/leeco/msm8976",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_leeco",
+    "target_path": "vendor/leeco",
+    "branch": "cm-14.1"
+  }
+]
