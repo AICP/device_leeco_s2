@@ -7,7 +7,7 @@
   {
     "repository": "hemantbeast/android_kernel_leeco_msm8976",
     "target_path": "kernel/leeco/msm8976",
-    "branch": "cm-14.x"
+    "branch": "n7.1"
   },
   {
     "repository": "AICP/proprietary_vendor_leeco",
